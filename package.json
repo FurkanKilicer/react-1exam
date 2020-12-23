@@ -5,6 +5,7 @@
   "dependencies": {
     "@popperjs/core": "^2.5.4",
     "bootstrap": "next",
+    "bootswatch": "^4.5.3",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },

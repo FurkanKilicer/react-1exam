@@ -13,7 +13,7 @@ function Card(props) {
   localStorage.setItem(props.id, like);
 
   return (
-    <div className="col-md-4 mt-5 my-auto">
+    <div className="col-md-4 mt-5">
       <div className="card shadow-lg">
         <CardImg imgUrl={props.imgUrl} />
         <div className="card-body">

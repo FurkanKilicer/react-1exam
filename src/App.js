@@ -13,7 +13,7 @@ export default function App() {
   return (
     <div>
       <Navbar />
-      <div className="container">
+      <div className="container mt-5">
         <div className="row">{Cardexp}</div>
       </div>
       <Footer />
