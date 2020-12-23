@@ -1,3 +1,27 @@
-h1, p {
+h1,
+p {
   font-family: Lato;
+}
+
+.navbar {
+  opacity: 0.8;
+}
+
+.carousel-caption {
+  min-height: 65%;
+  width: 75%;
+}
+
+.carousel-inner2 {
+  height: 75vh;
+  background: url(https://hedza.com/wp-content/uploads/2017/03/3.jpg);
+}
+
+.weig {
+  font-weight: bold !important;
+  background: linear-gradient(
+    90deg,
+    rgba(190, 33, 33, 0.6474964985994398) 0%,
+    rgba(47, 48, 54, 0.8603816526610644) 100%
+  );
 }
